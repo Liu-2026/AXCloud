@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "安信云 — 云服务器、大模型与全栈云服务",
+    "description": "安信云提供云服务器、大模型服务、存储、数据库、网络与安全等全栈云产品，15 个地域就近部署。"
+  },
+  "common": {
+    "from": "起",
+    "perMonth": "/月",
+    "perYear": "/年",
+    "buy": "立即购买",
+    "learnMore": "了解详情",
+    "viewAll": "查看全部",
+    "console": "控制台",
+    "login": "登录",
+    "signup": "免费注册",
+    "contactSales": "联系销售",
+    "freeTrial": "免费试用",
+    "search": "搜索",
+    "tags": {
+      "hot": "热门",
+      "new": "新品",
+      "free": "免费"
+    },
+    "demoNote": "本站为演示样板，价格、地域与案例均为示例数据。",
+    "payg": "按量付费"
+  },
+  "promo": {
+    "text": "新用户首购云服务器 2 核 2G 99 元/年，续费同价",
+    "cta": "去领取",
+    "close": "关闭活动提示"
+  },
+  "nav": {
+    "products": "产品",
+    "solutions": "解决方案",
+    "ai": "大模型",
+    "pricing": "定价",
+    "docs": "文档",
+    "partners": "合作伙伴",
+    "about": "关于我们",
+    "allProducts": "全部产品",
+    "searchProducts": "搜索产品，如：云服务器",
+    "noMatch": "没有找到相关产品，换个关键词试试",
+    "language": "切换语言",
+    "menu": "菜单",
+    "closeMenu": "关闭菜单",
+    "popular": "热门搜索",
+    "skip": "跳到主要内容"
+  },
+  "hero": {
+    "title": "选好配置，\n几十秒后开始运行",
+    "body": "云服务器、大模型、数据库与安全防护，在同一个账号里按需开通。15 个地域，按秒计费，不用的时候随时释放。",
+    "primary": "免费试用",
+    "secondary": "查看全部产品",
+    "panelTitle": "创建云服务器",
+    "region": "地域",
+    "spec": "规格",
+    "image": "镜像",
+    "billing": "计费方式",
+    "monthly": "包月",
+    "hourly": "按量",
+    "estimate": "预估费用",
+    "create": "去控制台创建",
+    "steps": {
+      "allocate": "分配计算资源",
+      "disk": "挂载 40 GB 系统盘",
+      "boot": "启动操作系统",
+      "running": "运行中"
+    },
+    "ip": "公网 IP",
+    "latency": "参考延迟",
+    "replay": "重新演示"
+  },
+  "offers": {
+    "items": [
+      {
+        "title": "云服务器 99 元/年",
+        "body": "2 核 2G 3M 带宽，新老同价续费"
+      },
+      {
+        "title": "大模型 Token 礼包",
+        "body": "注册即送 500 万 Tokens，主流模型通用"
+      },
+      {
+        "title": "60+ 产品免费试用",
+        "body": "数据库、存储、容器，最长可试 3 个月"
+      },
+      {
+        "title": "企业上云补贴",
+        "body": "迁移评估免费，专属架构师一对一"
+      }
+    ]
+  },
+  "ai": {
+    "title": "大模型与智能体",
+    "body": "一个 API Key 调用多家模型，在智能体平台接入知识库与工具，再用 GPU 算力完成微调。",
+    "cta": "进入大模型服务平台",
+    "models": "可用模型",
+    "colName": "模型",
+    "colType": "类型",
+    "colCtx": "上下文",
+    "colPrice": "输入价格 / 百万 Tokens",
+    "types": {
+      "chat": "对话",
+      "code": "代码",
+      "vision": "多模态",
+      "embed": "向量",
+      "speech": "语音"
+    },
+    "build": [
+      {
+        "title": "智能体开发平台",
+        "body": "拖拽编排知识库检索、工具调用与人工转接，发布为网页组件或 API。"
+      },
+      {
+        "title": "GPU 算力",
+        "body": "单卡到千卡集群，训练与推理实例可按小时租用。"
+      },
+      {
+        "title": "向量检索",
+        "body": "百万级文档秒级入库，为问答应用提供语义召回。"
+      }
+    ]
+  },
+  "catalog": {
+    "title": "完整的云产品体系",
+    "body": "13 大类、80 余款产品，覆盖从建站到大模型应用的每一步。",
+    "filter": "在全部产品中搜索",
+    "featured": "精选",
+    "count": "{count} 款产品",
+    "empty": "没有匹配的产品。试试“数据库”或“GPU”。"
+  },
+  "solutions": {
+    "title": "按行业找方案",
+    "body": "从业务场景出发，组合合适的产品。",
+    "architecture": "参考架构",
+    "involved": "涉及产品",
+    "consult": "咨询方案架构师"
+  },
+  "infra": {
+    "title": "离用户更近的基础设施",
+    "body": "地域之间通过私有骨干网互联。选择一个地域，查看可用区数量与参考延迟。",
+    "regions": "地域",
+    "zones": "可用区",
+    "rtt": "从上海出发的参考延迟",
+    "note": "延迟为示例参考值，实际取决于运营商与网络状况。"
+  },
+  "service": {
+    "title": "开通之后，我们一直都在",
+    "items": [
+      {
+        "title": "7×24 小时工单",
+        "body": "紧急工单 15 分钟内响应，全程可追踪。"
+      },
+      {
+        "title": "专属架构师",
+        "body": "企业客户可预约架构评审与上云规划。"
+      },
+      {
+        "title": "迁移服务",
+        "body": "从本地机房或其他云平滑迁入，业务不停机。"
+      },
+      {
+        "title": "文档与社区",
+        "body": "产品文档、最佳实践与开发者问答。"
+      }
+    ],
+    "compliance": "合规能力",
+    "complianceItems": [
+      "等保合规方案",
+      "数据加密",
+      "操作审计",
+      "多地域容灾",
+      "访问控制",
+      "隐私保护"
+    ]
+  },
+  "cta": {
+    "title": "注册后即可领取试用额度",
+    "body": "个人与企业用户均可申请，无需绑定信用卡。",
+    "primary": "免费注册",
+    "secondary": "和销售聊聊"
+  },
+  "footer": {
+    "cols": {
+      "products": "热门产品",
+      "solutions": "解决方案",
+      "support": "支持与服务",
+      "company": "关于安信云"
+    },
+    "support": [
+      "帮助文档",
+      "提交工单",
+      "服务状态",
+      "备案中心",
+      "价格计算器"
+    ],
+    "company": [
+      "公司介绍",
+      "新闻动态",
+      "加入我们",
+      "合作伙伴",
+      "法律声明"
+    ],
+    "hotline": "售前咨询",
+    "rights": "© 2026 安信云 版权所有",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "agent": {
+    "launcher": "智能客服",
+    "title": "安信小助",
+    "subtitle": "产品选型、价格与使用问题",
+    "greeting": "你好，我是安信小助。可以帮你选配置、算价格，或者解答产品和账号问题。",
+    "placeholder": "输入你的问题，Enter 发送",
+    "send": "发送",
+    "suggestions": [
+      "我想搭一个企业官网，选什么配置？",
+      "大模型怎么计费？",
+      "如何申请 ICP 备案？",
+      "GPU 服务器有哪些规格？"
+    ],
+    "human": "转人工",
+    "humanReply": "已为你提交转人工请求。工作日 9:00–21:00 客服会在 3 分钟内接入，也可以拨打 400-820-0000。",
+    "error": "回答没有生成出来，请稍后再发一次。",
+    "close": "关闭对话",
+    "clear": "新对话",
+    "offline": "演示模式：未配置模型密钥，以下为知识库内置回答。",
+    "disclaimer": "回答由 AI 生成，价格以下单页为准"
+  },
+  "product": {
+    "overview": "产品概述",
+    "features": "产品优势",
+    "specs": "规格与价格",
+    "scenarios": "适用场景",
+    "faq": "常见问题",
+    "related": "相关产品",
+    "spec": "规格",
+    "vcpu": "vCPU",
+    "memory": "内存",
+    "bandwidth": "带宽",
+    "price": "价格",
+    "breadcrumb": "产品",
+    "docs": "产品文档",
+    "pricingNote": "以上为示例价格，按年购买可享更低折扣。",
+    "askAgent": "问问智能客服"
+  },
+  "login": {
+    "title": "登录安信云",
+    "subtitle": "使用账号登录后进入控制台",
+    "account": "手机号或邮箱",
+    "password": "密码",
+    "submit": "登录",
+    "noAccount": "还没有账号？",
+    "register": "免费注册",
+    "forgot": "忘记密码",
+    "or": "或",
+    "sso": "企业 SSO 登录",
+    "demo": "演示环境：任意账号密码均可进入控制台",
+    "asideTitle": "一个控制台管理全部云资源",
+    "asidePoints": [
+      "实时查看实例状态与费用",
+      "多账号与子用户权限管理",
+      "工单与消息统一处理"
+    ],
+    "required": "请填写手机号或邮箱",
+    "pwdRequired": "请填写密码",
+    "hasAccount": "已有账号？"
+  },
+  "console": {
+    "overview": "概览",
+    "ecs": "云服务器",
+    "storage": "对象存储",
+    "database": "云数据库",
+    "maas": "大模型服务",
+    "billing": "费用中心",
+    "tickets": "工单",
+    "settings": "账号设置",
+    "back": "返回官网",
+    "searchPlaceholder": "搜索资源、产品或文档",
+    "welcome": "早上好，演示用户",
+    "balance": "账户余额",
+    "recharge": "充值",
+    "monthCost": "本月消费",
+    "runningInstances": "运行中实例",
+    "alerts": "待处理告警",
+    "costTrend": "近 30 天消费趋势",
+    "resources": "我的资源",
+    "quickCreate": "快速创建",
+    "notices": "消息通知",
+    "recent": "最近访问",
+    "createInstance": "创建实例",
+    "name": "实例名称",
+    "status": "状态",
+    "region": "地域",
+    "spec": "规格",
+    "ip": "IP 地址",
+    "expire": "到期时间",
+    "actions": "操作",
+    "start": "启动",
+    "stop": "停止",
+    "restart": "重启",
+    "running": "运行中",
+    "stopped": "已停止",
+    "starting": "启动中",
+    "remoteConnect": "远程连接",
+    "more": "更多",
+    "filter": "按名称或 IP 筛选",
+    "empty": "当前地域还没有实例。",
+    "createFirst": "创建第一台实例",
+    "bucket": "存储桶",
+    "objects": "对象数",
+    "size": "存储量",
+    "created": "创建时间",
+    "engine": "引擎",
+    "apiKeys": "API Key",
+    "tokensUsed": "本月 Tokens",
+    "callCount": "调用次数",
+    "bill": "账单",
+    "amount": "金额",
+    "product": "产品",
+    "period": "账期",
+    "paid": "已支付",
+    "unpaid": "待支付",
+    "ticketTitle": "问题",
+    "updated": "更新时间",
+    "newTicket": "提交工单",
+    "processing": "处理中",
+    "resolved": "已解决",
+    "wizard": {
+      "title": "创建云服务器",
+      "billing": "付费模式",
+      "region": "地域",
+      "spec": "实例规格",
+      "image": "镜像",
+      "disk": "系统盘",
+      "bandwidth": "公网带宽",
+      "count": "购买数量",
+      "total": "配置费用",
+      "confirm": "确认创建",
+      "cancel": "取消",
+      "created": "实例已创建，正在启动"
+    }
+  }
+}

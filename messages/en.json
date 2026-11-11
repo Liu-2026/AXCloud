@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "title": "AXCloud — Cloud servers, AI models and full-stack cloud",
+    "description": "AXCloud offers compute, AI model services, storage, databases, networking and security across 15 regions."
+  },
+  "common": {
+    "from": "from",
+    "perMonth": "/mo",
+    "perYear": "/yr",
+    "buy": "Buy now",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "console": "Console",
+    "login": "Sign in",
+    "signup": "Sign up free",
+    "contactSales": "Contact sales",
+    "freeTrial": "Start free trial",
+    "search": "Search",
+    "tags": {
+      "hot": "Popular",
+      "new": "New",
+      "free": "Free"
+    },
+    "demoNote": "This is a demo site. Prices, regions and cases are sample data.",
+    "payg": "Pay as you go"
+  },
+  "promo": {
+    "text": "New customers: 2 vCPU / 2 GB cloud server for ¥99 a year, same price on renewal",
+    "cta": "Claim offer",
+    "close": "Dismiss offer"
+  },
+  "nav": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "ai": "AI",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "partners": "Partners",
+    "about": "About",
+    "allProducts": "All products",
+    "searchProducts": "Search products, e.g. server",
+    "noMatch": "No products found. Try another keyword.",
+    "language": "Change language",
+    "menu": "Menu",
+    "closeMenu": "Close menu",
+    "popular": "Popular",
+    "skip": "Skip to main content"
+  },
+  "hero": {
+    "title": "Pick a configuration.\nIt's running in seconds.",
+    "body": "Servers, AI models, databases and security, all from one account. 15 regions, per-second billing, release anything you no longer need.",
+    "primary": "Start free trial",
+    "secondary": "Browse all products",
+    "panelTitle": "Create a cloud server",
+    "region": "Region",
+    "spec": "Size",
+    "image": "Image",
+    "billing": "Billing",
+    "monthly": "Monthly",
+    "hourly": "Hourly",
+    "estimate": "Estimated cost",
+    "create": "Create in console",
+    "steps": {
+      "allocate": "Allocating compute",
+      "disk": "Attaching 40 GB system disk",
+      "boot": "Booting operating system",
+      "running": "Running"
+    },
+    "ip": "Public IP",
+    "latency": "Ref. latency",
+    "replay": "Replay"
+  },
+  "offers": {
+    "items": [
+      {
+        "title": "Cloud server ¥99/yr",
+        "body": "2 vCPU, 2 GB, 3 Mbps — renew at the same price"
+      },
+      {
+        "title": "AI token bundle",
+        "body": "5M free tokens on sign-up, any model"
+      },
+      {
+        "title": "60+ free trials",
+        "body": "Databases, storage, containers — up to 3 months"
+      },
+      {
+        "title": "Migration credits",
+        "body": "Free assessment and a dedicated architect"
+      }
+    ]
+  },
+  "ai": {
+    "title": "Models and agents",
+    "body": "One API key for many models. Connect knowledge and tools in Agent Studio, then fine-tune on GPU compute.",
+    "cta": "Open the model platform",
+    "models": "Available models",
+    "colName": "Model",
+    "colType": "Type",
+    "colCtx": "Context",
+    "colPrice": "Input / 1M tokens",
+    "types": {
+      "chat": "Chat",
+      "code": "Code",
+      "vision": "Multimodal",
+      "embed": "Embedding",
+      "speech": "Speech"
+    },
+    "build": [
+      {
+        "title": "Agent Studio",
+        "body": "Wire up retrieval, tool calls and human handoff, then publish as a web widget or API."
+      },
+      {
+        "title": "GPU compute",
+        "body": "From a single card to thousand-card clusters, rented by the hour."
+      },
+      {
+        "title": "Vector search",
+        "body": "Index millions of documents in seconds for semantic recall."
+      }
+    ]
+  },
+  "catalog": {
+    "title": "A complete cloud catalog",
+    "body": "13 categories and 80+ products, from your first website to production AI.",
+    "filter": "Search all products",
+    "featured": "Featured",
+    "count": "{count} products",
+    "empty": "No matching products. Try \"database\" or \"GPU\"."
+  },
+  "solutions": {
+    "title": "Solutions by industry",
+    "body": "Start from the business scenario, then pick the products.",
+    "architecture": "Reference architecture",
+    "involved": "Products used",
+    "consult": "Talk to a solutions architect"
+  },
+  "infra": {
+    "title": "Infrastructure close to your users",
+    "body": "Regions are linked by a private backbone. Select a region to see its zones and reference latency.",
+    "regions": "Regions",
+    "zones": "Availability zones",
+    "rtt": "Reference latency from Shanghai",
+    "note": "Latency values are illustrative and vary by carrier and network conditions."
+  },
+  "service": {
+    "title": "After launch, we're still here",
+    "items": [
+      {
+        "title": "24/7 tickets",
+        "body": "Urgent tickets answered within 15 minutes, tracked end to end."
+      },
+      {
+        "title": "Dedicated architects",
+        "body": "Business customers can book architecture reviews."
+      },
+      {
+        "title": "Migration service",
+        "body": "Move from on-prem or another cloud without downtime."
+      },
+      {
+        "title": "Docs & community",
+        "body": "Product docs, best practices and developer Q&A."
+      }
+    ],
+    "compliance": "Compliance",
+    "complianceItems": [
+      "MLPS compliance builds",
+      "Encryption",
+      "Audit trails",
+      "Multi-region DR",
+      "Access control",
+      "Privacy protection"
+    ]
+  },
+  "cta": {
+    "title": "Sign up and get trial credits",
+    "body": "Open to individuals and businesses. No credit card required.",
+    "primary": "Sign up free",
+    "secondary": "Talk to sales"
+  },
+  "footer": {
+    "cols": {
+      "products": "Popular products",
+      "solutions": "Solutions",
+      "support": "Support",
+      "company": "Company"
+    },
+    "support": [
+      "Documentation",
+      "Submit a ticket",
+      "Service status",
+      "ICP filing",
+      "Pricing calculator"
+    ],
+    "company": [
+      "About us",
+      "News",
+      "Careers",
+      "Partners",
+      "Legal"
+    ],
+    "hotline": "Sales hotline",
+    "rights": "© 2026 AXCloud. All rights reserved.",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "agent": {
+    "launcher": "Ask AI",
+    "title": "AX Assistant",
+    "subtitle": "Product choice, pricing and account help",
+    "greeting": "Hi, I'm the AX Assistant. I can help you pick a configuration, estimate costs, or answer product and account questions.",
+    "placeholder": "Ask a question, Enter to send",
+    "send": "Send",
+    "suggestions": [
+      "What should I use for a company website?",
+      "How is model usage billed?",
+      "How do I get an ICP filing?",
+      "What GPU sizes are there?"
+    ],
+    "human": "Talk to a person",
+    "humanReply": "Handoff requested. On weekdays 9:00–21:00 an agent joins within 3 minutes, or call 400-820-0000.",
+    "error": "The answer didn't come through. Please send it again.",
+    "close": "Close chat",
+    "clear": "New chat",
+    "offline": "Demo mode: no model key configured, showing built-in answers.",
+    "disclaimer": "AI-generated. Check prices on the order page."
+  },
+  "product": {
+    "overview": "Overview",
+    "features": "Why it fits",
+    "specs": "Sizes & pricing",
+    "scenarios": "Use cases",
+    "faq": "FAQ",
+    "related": "Related products",
+    "spec": "Size",
+    "vcpu": "vCPU",
+    "memory": "Memory",
+    "bandwidth": "Bandwidth",
+    "price": "Price",
+    "breadcrumb": "Products",
+    "docs": "Documentation",
+    "pricingNote": "Sample prices. Annual plans cost less.",
+    "askAgent": "Ask the assistant"
+  },
+  "login": {
+    "title": "Sign in to AXCloud",
+    "subtitle": "Sign in to open your console",
+    "account": "Phone or email",
+    "password": "Password",
+    "submit": "Sign in",
+    "noAccount": "No account yet?",
+    "register": "Sign up free",
+    "forgot": "Forgot password",
+    "or": "or",
+    "sso": "Sign in with company SSO",
+    "demo": "Demo: any phone/email and password opens the console",
+    "asideTitle": "One console for every cloud resource",
+    "asidePoints": [
+      "Live instance status and spend",
+      "Accounts, sub-users and permissions",
+      "Tickets and notifications in one place"
+    ],
+    "required": "Enter your phone or email",
+    "pwdRequired": "Enter your password",
+    "hasAccount": "Already have an account?"
+  },
+  "console": {
+    "overview": "Overview",
+    "ecs": "Cloud servers",
+    "storage": "Object storage",
+    "database": "Databases",
+    "maas": "Model service",
+    "billing": "Billing",
+    "tickets": "Tickets",
+    "settings": "Account",
+    "back": "Back to website",
+    "searchPlaceholder": "Search resources, products or docs",
+    "welcome": "Good morning, demo user",
+    "balance": "Balance",
+    "recharge": "Top up",
+    "monthCost": "Spend this month",
+    "runningInstances": "Running instances",
+    "alerts": "Open alerts",
+    "costTrend": "Spend, last 30 days",
+    "resources": "My resources",
+    "quickCreate": "Quick create",
+    "notices": "Notifications",
+    "recent": "Recently visited",
+    "createInstance": "Create instance",
+    "name": "Name",
+    "status": "Status",
+    "region": "Region",
+    "spec": "Size",
+    "ip": "IP address",
+    "expire": "Expires",
+    "actions": "Actions",
+    "start": "Start",
+    "stop": "Stop",
+    "restart": "Restart",
+    "running": "Running",
+    "stopped": "Stopped",
+    "starting": "Starting",
+    "remoteConnect": "Connect",
+    "more": "More",
+    "filter": "Filter by name or IP",
+    "empty": "No instances in this region yet.",
+    "createFirst": "Create your first instance",
+    "bucket": "Bucket",
+    "objects": "Objects",
+    "size": "Size",
+    "created": "Created",
+    "engine": "Engine",
+    "apiKeys": "API keys",
+    "tokensUsed": "Tokens this month",
+    "callCount": "Calls",
+    "bill": "Bill",
+    "amount": "Amount",
+    "product": "Product",
+    "period": "Period",
+    "paid": "Paid",
+    "unpaid": "Due",
+    "ticketTitle": "Issue",
+    "updated": "Updated",
+    "newTicket": "New ticket",
+    "processing": "In progress",
+    "resolved": "Resolved",
+    "wizard": {
+      "title": "Create a cloud server",
+      "billing": "Billing",
+      "region": "Region",
+      "spec": "Instance size",
+      "image": "Image",
+      "disk": "System disk",
+      "bandwidth": "Bandwidth",
+      "count": "Quantity",
+      "total": "Cost",
+      "confirm": "Create",
+      "cancel": "Cancel",
+      "created": "Instance created and starting"
+    }
+  }
+}
